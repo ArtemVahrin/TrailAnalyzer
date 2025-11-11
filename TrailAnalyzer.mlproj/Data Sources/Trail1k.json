@@ -1,0 +1,80 @@
+{
+  "activityEntities" : [
+
+  ],
+  "createdDate" : "2025-05-21T09:14:05Z",
+  "dataPathRelativeToProjectURL" : "../TrailData/Trail1k.csv/",
+  "dataResult" : {
+    "columnTypes" : [
+      "Int",
+      "Int",
+      "String",
+      "Int",
+      "Int"
+    ],
+    "columnValues" : [
+      "1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3",
+      "0, 0, 0, 0, 0, 0, 0, 300, 300, 300, 300, 0, 0, 0, 0, 0, 0, 0, 0, 300, 300, 0, 0, 0, 0, 0, 0, 0, 0, 300",
+      "paved, sandy, sandy, sandy, sandy, sandy, sandy, paved, paved, paved, sandy, paved, paved, paved, paved, sandy, sandy, sandy, sandy, paved, paved, paved, paved, paved, paved, sandy, sandy, sandy, sandy, paved",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4"
+    ],
+    "columns" : [
+      "distance",
+      "elevation",
+      "terrain",
+      "dangerous",
+      "risk"
+    ],
+    "createdDate" : "2025-05-21T09:14:05Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "No target selected",
+          "severity" : "notReady"
+        },
+        {
+          "description" : "Data has 1000 rows",
+          "severity" : "info"
+        },
+        {
+          "description" : "No features selected",
+          "severity" : "notReady"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "sampleCount" : 1000
+      }
+    },
+    "dataSourceID" : "A9E8CB27-378E-4C2B-BD36-4DDD70CF3BF7",
+    "dataURL" : "file:///Users/aboba/Desktop/swift/AppleDevelopers/Develop%20In%20Swift%20Tutorial/Model%20training%20with%20Create%20ML/TrailData/Trail1k.csv/",
+    "error" : {
+      "code" : 1000,
+      "domain" : "composer.error.domain",
+      "errorType" : "notReady",
+      "reason" : "No target selected"
+    },
+    "itemsCount" : 1000
+  },
+  "dataURL" : "file:///Users/aboba/Desktop/swift/AppleDevelopers/Develop%20In%20Swift%20Tutorial/Model%20training%20with%20Create%20ML/TrailData/Trail1k.csv/",
+  "experimentIDs" : [
+    "D016723D-13DE-4E73-AECE-3A2494CDA68E",
+    "1F3F330E-879D-45D0-A3EC-B90802D91528",
+    "D2E6E105-5DFA-4335-BA0F-3C5D6CBAF4A6"
+  ],
+  "id" : "A9E8CB27-378E-4C2B-BD36-4DDD70CF3BF7",
+  "modifiedDate" : "2025-11-11T09:46:29Z",
+  "pathType" : 0,
+  "preferredFilename" : "Trail1k",
+  "title" : "Trail1k.csv",
+  "version" : "1.0"
+}

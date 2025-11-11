@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-05-21T09:07:56Z",
+        "event" : "projectCreated",
+        "id" : "CEFEF6BC-BB59-482E-9006-8D030DBB7486",
+        "subtitle" : "TrailAnalyzer",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Артём",
+  "createdDate" : "2025-05-21T09:07:56Z",
+  "description" : "",
+  "id" : "F809426E-50F3-4464-90B9-433DEF5E721F",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-05-21T09:07:56Z",
+  "projectName" : "TrailAnalyzer",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
